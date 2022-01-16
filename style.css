@@ -253,7 +253,8 @@ infulence marketing
     width: 381px;
 }
 .influence-marketing .right-side{
-padding-top: 18px;
+    width: 492px;
+    padding: 6px;
 }
 .right-side .right-title{
     margin-top: 10px;
